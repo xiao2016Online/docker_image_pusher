@@ -1,6 +1,6 @@
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-istio/proxyv2-arm64:1.15.7
+istio/proxyv2:1.15.7
 #支持指定架构
 --platform=linux/arm64  proxyv2-arm
