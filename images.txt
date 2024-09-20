@@ -1,3 +1,2 @@
 #支持指定架构
---platform=linux/arm64  apache/apisix-dashboard:3.0.0-alpine
---platform=linux/arm64  bitnami/etcd:3.5.7-debian-11-r14
+--platform=linux/arm64  busybox:1.28
