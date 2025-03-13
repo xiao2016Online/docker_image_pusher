@@ -1,5 +1,6 @@
 #支持指定架构
+nginx:1.26.3-alpine
 #--platform=linux/arm64  etcd:3.5.7-debian-11-r14
---platform=linux/arm64 python:3.11
---platform=linux/arm64 python:3.11-slim
+#--platform=linux/arm64 python:3.11
+#--platform=linux/arm64 python:3.11-slim
 #--platform=linux/arm64  cnplat/cephcsi:v3.4.0
