@@ -1,7 +1,6 @@
 #支持指定架构
 tonistiigi/xx:1.6.1
 golang:1.23.6-bookworm
-#nginx:1.26.3-alpine
 #--platform=linux/arm64  etcd:3.5.7-debian-11-r14
 #--platform=linux/arm64 python:3.11
 #--platform=linux/arm64 python:3.11-slim
