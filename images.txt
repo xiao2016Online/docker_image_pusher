@@ -1,6 +1,7 @@
 #支持指定架构
-tonistiigi/xx:1.6.1
-golang:1.23.6-bookworm
+docker/dockerfile:1
+#tonistiigi/xx:1.6.1
+#golang:1.23.6-bookworm
 #--platform=linux/arm64  etcd:3.5.7-debian-11-r14
 #--platform=linux/arm64 python:3.11
 #--platform=linux/arm64 python:3.11-slim
