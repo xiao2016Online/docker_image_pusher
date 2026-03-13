@@ -3,9 +3,11 @@
 #eclipse-temurin:21-jre-alpine
 #node:20-alpine
 #nginx:1.26-alpine
-gitea/gitea:latest
-jenkins/jenkins:lts
-registry:2
+#gitea/gitea:latest
+#jenkins/jenkins:lts
+#registry:2
+eclipse-temurin:8-jre-alpine
+gradle:7.6-jdk8-alpine AS builder
 
 #clickhouse/clickhouse-server:23.8
 #docker.io/library/golang:1.23.6-alpine3.21
