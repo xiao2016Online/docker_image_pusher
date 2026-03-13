@@ -7,7 +7,7 @@
 #jenkins/jenkins:lts
 #registry:2
 eclipse-temurin:8-jre-alpine
-gradle:7.6-jdk8-alpine AS builder
+gradle:7.6-jdk8-alpine 
 
 #clickhouse/clickhouse-server:23.8
 #docker.io/library/golang:1.23.6-alpine3.21
