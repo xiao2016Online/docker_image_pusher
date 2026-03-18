@@ -5,8 +5,7 @@
 #nginx:1.26-alpine
 #gitea/gitea:latest
 #jenkins/jenkins:lts
-postgres:16-alpine
-redis:7.2.4-alpine
+docker:24-cli
 
 
 #--platform=linux/arm64  etcd:3.5.7-debian-11-r14
