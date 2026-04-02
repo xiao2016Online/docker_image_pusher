@@ -7,7 +7,8 @@
 #jenkins/jenkins:lts
 #docker:24-cli
 #python:3.12-slim
-docker:27-cli
+#docker:27-cli
+gradle:8.5-jdk21-alpine
 
 
 #--platform=linux/arm64  etcd:3.5.7-debian-11-r14
