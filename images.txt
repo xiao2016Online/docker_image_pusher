@@ -11,8 +11,9 @@
 #gradle:8.8-jdk21-alpine
 #python:3.12-alpine
 #golang:1.23.2-alpine
-node:24.15.0-trixie-slim
-nginx:1.30.0-alpine
+#node:24.15.0-trixie-slim
+#nginx:1.30.0-alpine
+node:20-slim
 
 
 #--platform=linux/arm64  etcd:3.5.7-debian-11-r14
