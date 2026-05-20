@@ -1,13 +1,8 @@
 #支持指定架构
 #eclipse-temurin:21-jdk
 #eclipse-temurin:21-jre-alpine
-eclipse-temurin:8-jdk-alpine
-nginx:1.25-alpine
-python:3.11-slim
-postgres:15
-apache/airflow:2.9.0-python3.11
-codercom/code-server:latest
 
-#--platform=linux/arm64  etcd:3.5.7-debian-11-r14
-#--platform=linux/arm64 python:3.11
-
+--platform=linux/arm64  node:20-alpine 
+--platform=linux/arm64  nginx:1.26-alpine 
+--platform=linux/arm64  gradle:8.8-jdk21-alpine 
+--platform=linux/arm64  eclipse-temurin:21-jre-alpine
