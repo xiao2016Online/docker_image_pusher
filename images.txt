@@ -6,6 +6,6 @@
 #--platform=linux/arm64  nginx:1.26-alpine 
 #--platform=linux/arm64  gradle:8.8-jdk21-alpine 
 
-
---platform=linux/arm64  zhuquelab/aig-server:v4.1.8
---platform=linux/arm64  zhuquelab/aig-agent:v4.1.8
+eclipse-temurin:8-jdk
+#--platform=linux/arm64  zhuquelab/aig-server:v4.1.8
+#--platform=linux/arm64  zhuquelab/aig-agent:v4.1.8
