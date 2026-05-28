@@ -2,11 +2,9 @@
 #eclipse-temurin:21-jdk
 #eclipse-temurin:21-jre-alpine
 
-#--platform=linux/arm64  node:20-alpine 
+--platform=linux/arm64  ubuntu/squid:latest 
 #--platform=linux/arm64  nginx:1.26-alpine 
 #--platform=linux/arm64  gradle:8.8-jdk21-alpine 
 
-liquibase/liquibase:4.25
-nocobase/nocobase:2.0.44
 #--platform=linux/arm64  zhuquelab/aig-server:v4.1.8
 #--platform=linux/arm64  zhuquelab/aig-agent:v4.1.8
