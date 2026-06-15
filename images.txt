@@ -1,6 +1,3 @@
 #支持指定架构
-#eclipse-temurin:21-jdk
-#eclipse-temurin:21-jre-alpine 
---platform=linux/arm64 node:20-alpine
---platform=linux/arm64  gradle:7.6-jdk8
---platform=linux/arm64  docker:24-cli
+neo4jlabs/neodash:latest 
+#--platform=linux/arm64 node:20-alpine
