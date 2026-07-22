@@ -1,10 +1,4 @@
 #支持指定架构
 #neo4jlabs/neodash:latest 
 #--platform=linux/arm64 node:20-alpine
-python:3.11-slim
-node:20-alpine
-nginx:alpine
-golang:1.26.3-alpine
-alpine:3.19
-postgres:16-alpine
-redis:7-alpine
+node:22.20.0-alpine
