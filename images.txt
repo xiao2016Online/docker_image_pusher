@@ -1,4 +1,5 @@
 #支持指定架构
 #neo4jlabs/neodash:latest 
 #--platform=linux/arm64 node:20-alpine
-node:22.20.0-alpine
+#node:22.20.0-alpine
+atlassian/jira-software:7.13.18
