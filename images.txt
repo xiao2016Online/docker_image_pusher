@@ -1,4 +1,4 @@
 #支持指定架构
 #neo4jlabs/neodash:latest 
-#--platform=linux/arm64 python:3.12-slim
+--platform=linux/arm64 python:3.12-slim
 #python:3.12-slim
