@@ -5,5 +5,6 @@
 #--platform=linux/arm64 pgvector/pgvector:0.8.6-pg16-trixie
 #golang:1.26-alpine
 #alpine:3.20
-node:22-bookworm-slim
+#node:22-bookworm-slim
+golang:1.23-alpine
 
