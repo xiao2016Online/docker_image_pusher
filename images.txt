@@ -6,5 +6,7 @@
 #golang:1.26-alpine
 #alpine:3.20
 #node:22-bookworm-slim
-golang:1.23-alpine
+#golang:1.23-alpine
+python:3.12-slim
+ghcr.io/astral-sh/uv
 
