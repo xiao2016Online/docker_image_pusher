@@ -1,12 +1,7 @@
 #支持指定架构
-#neo4jlabs/neodash:latest 
-#--platform=linux/arm64 python:3.12-slim
-#--platform=linux/arm64 redis:7.2.4-alpine
-#--platform=linux/arm64 pgvector/pgvector:0.8.6-pg16-trixie
-#golang:1.26-alpine
-#alpine:3.20
-#node:22-bookworm-slim
-#golang:1.23-alpine
-python:3.12-slim
-ghcr.io/astral-sh/uv
-
+--platform=linux/arm64 gradle:9.8.2-jdk21
+--platform=linux/arm64 eclipse-temurin:21-jre-alpine
+--platform=linux/arm64 nginx:1.30-alpine
+gradle:9.8.2-jdk21
+eclipse-temurin:21-jre-alpine
+nginx:1.30-alpine
