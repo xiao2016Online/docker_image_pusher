@@ -5,4 +5,6 @@
 #gradle:9.8.2-jdk21
 #eclipse-temurin:21-jre-alpine
 #nginx:1.30-alpine
-python:3.13-slim
+#python:3.13-slim
+ghcr.io/silverbulletmd/silverbullet:latest
+caddy:alpine
