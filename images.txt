@@ -1,7 +1,8 @@
 #支持指定架构
---platform=linux/arm64 gradle:9.8.2-jdk21
---platform=linux/arm64 eclipse-temurin:21-jre-alpine
---platform=linux/arm64 nginx:1.30-alpine
-gradle:9.8.2-jdk21
-eclipse-temurin:21-jre-alpine
-nginx:1.30-alpine
+#--platform=linux/arm64 gradle:9.8.2-jdk21
+#--platform=linux/arm64 eclipse-temurin:21-jre-alpine
+#--platform=linux/arm64 nginx:1.30-alpine
+#gradle:9.8.2-jdk21
+#eclipse-temurin:21-jre-alpine
+#nginx:1.30-alpine
+python:3.13-slim
